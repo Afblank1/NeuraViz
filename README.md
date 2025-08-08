@@ -4,25 +4,25 @@ NeuraViz is a comprehensive web application for building, training, and visualiz
 
 ## Features
 
-### 🧠 Neural Network Builder
+### Neural Network Builder
 - **Intuitive Layer-by-Layer Construction**: Add dense layers, convolutional layers, pooling layers, dropout, and batch normalization
 - **Real-time Parameter Configuration**: Adjust layer parameters, activation functions, and hyperparameters
 - **Visual Network Architecture**: See your network structure as you build it
 - **Support for Multiple Network Types**: Regression, classification, and CNNs
 
-### 📊 Dataset Management
+### Dataset Management
 - **Built-in Datasets**: Iris, regression samples, classification samples
 - **Custom Dataset Upload**: Upload your own CSV datasets
 - **Data Visualization**: Preview and explore dataset statistics
 - **Automatic Type Detection**: Automatically detects regression vs classification problems
 
-### 📈 Training & Visualization
+### Training & Visualization
 - **Real-time Training Progress**: Live loss and accuracy curves
 - **Interactive Charts**: Powered by Recharts for smooth visualizations
 - **Training Controls**: Start, stop, and monitor training progress
 - **Hyperparameter Configuration**: Adjust learning rate, batch size, optimizer, and loss functions
 
-### 🎯 Model Management
+### Model Management
 - **Model Repository**: Save and manage multiple trained models
 - **Performance Metrics**: Detailed training history and final metrics
 - **Model Export**: Download trained models (future feature)
