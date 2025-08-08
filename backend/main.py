@@ -182,8 +182,6 @@ def initialize_datasets():
     
 
     
-    # === REAL REGRESSION DATASETS ===
-    
     # 1. California Housing Dataset (Real)
 
     try:
@@ -263,7 +261,6 @@ def initialize_datasets():
     except Exception as e:
         pass
     
-    # === REAL IMAGE DATASETS FOR CNN ===
     
     # 4. Real MNIST Subset
 
@@ -373,7 +370,6 @@ def initialize_datasets():
         pass
 
     
-    # === CLASSIC ML DATASETS ===
     
     # 1. Iris Dataset (already existing, enhanced)
     iris = load_iris()
@@ -503,7 +499,6 @@ def initialize_datasets():
         "classes": ["cluster_1", "cluster_2", "cluster_3", "cluster_4"]
     }
     
-    # === IMAGE DATASETS ===
     
     # 9. MNIST Digits (Subset for demo)
     try:
@@ -555,7 +550,6 @@ def initialize_datasets():
     except Exception as e:
         pass
     
-    # TEXT/SENTIMENT DATASETS 
     
     # 10. Simple Sentiment Analysis Dataset
     # Create a simple bag-of-words sentiment dataset
