@@ -188,4 +188,4 @@ For questions, issues, or contributions, please open an issue on the GitHub repo
 
 ---
 
-**Happy Neural Networking! 🚀** 
+**Happy Neural Networking!** 
